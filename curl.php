@@ -35,4 +35,4 @@ fetch(yourUrl).then(
   
     //   var  map  =  L.map('map').setView([51.505,  -0.09],  11);  
     //   map.addLayer(osmLayer).addLayer(waqiLayer);  
-</script>ulang
+</script>ulang sda
